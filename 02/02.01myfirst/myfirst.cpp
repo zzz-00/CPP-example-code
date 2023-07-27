@@ -9,5 +9,6 @@ int main()
     cout << endl;
     cout << "You won't regret it!" << endl;
     cout << "git test" << endl;
+    system("pause");
     return 0;
 }
